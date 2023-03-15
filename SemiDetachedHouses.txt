@@ -1,0 +1,48 @@
+15 Martingrove Road
+5
+2
+1000000
+6000
+400
+300
+2
+1225 The East Mall
+4
+3
+900000
+4000
+350
+380
+3
+1221 Matheson Boulevard East
+3
+2
+850000
+3800
+360
+340
+4
+133 Rathburn Road
+4
+3
+950000
+5400
+440
+410
+5
+1010 Kipling Avenue
+3
+2
+800000
+3600
+350
+330
+6
+130 Kipling Avenue
+4
+3
+900000
+3800
+330
+300
+5
